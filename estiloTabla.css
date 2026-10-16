@@ -1,0 +1,19 @@
+table {
+    border-radius: 0ch;
+    text-align: center;
+}
+td{
+    background-color: beige;
+    color: black
+}
+
+
+
+a{
+    text-decoration: none;
+    text-align: center;
+    box-shadow: white;
+}
+a:hover{
+    text-decoration: aqua;
+}
